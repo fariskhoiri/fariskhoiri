@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fariskhoiri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning in Bangkit Academy Cloud Computing learning program
 - 💞️ I’m looking to collaborate on web creation
 - 📫 How to reach me hernandafaris36@gmail.com
 
